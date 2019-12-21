@@ -1,0 +1,436 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="GROUP_BY_SEVERITY" value="true" />
+  </component>
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="untitled3:war exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="78a6e3d9-b89e-4438-87a3-83185b490e1b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dictionaries" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/yShen/study/controller/AdminController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/yShen/study/mapper/AdminMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/yShen/study/mapper/ClassMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/yShen/study/mapper/DepartmentMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/yShen/study/mapper/StudentMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/yShen/study/mapper/TeacherMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/yShen/study/model/Admin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/yShen/study/model/Class.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/yShen/study/model/Department.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/yShen/study/model/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/yShen/study/model/Teacher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/yShen/study/service/AdminService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/yShen/study/service/impl/AdminServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/applicationContext.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/generatorConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/jdbc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/log4j.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/mapper/AdminMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/mapper/ClassMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/mapper/DepartmentMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/mapper/StudentMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/mapper/TeacherMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/mybatis-config.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/META-INF/spring.components" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/applicationContext.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/yShen/study/controller/AdminController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/yShen/study/mapper/AdminMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/yShen/study/mapper/ClassMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/yShen/study/mapper/DepartmentMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/yShen/study/mapper/StudentMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/yShen/study/mapper/TeacherMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/yShen/study/model/Admin.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/yShen/study/model/Class.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/yShen/study/model/Department.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/yShen/study/model/Student.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/yShen/study/model/Teacher.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/yShen/study/service/AdminService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/yShen/study/service/impl/AdminServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/generatorConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/jdbc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/log4j.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/mapper/AdminMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/mapper/ClassMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/mapper/DepartmentMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/mapper/StudentMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/mapper/TeacherMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/mybatis-config.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/untitled3-1.0-SNAPSHOT/META-INF/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/untitled3-1.0-SNAPSHOT/WEB-INF/classes/META-INF/spring.components" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/untitled3-1.0-SNAPSHOT/WEB-INF/classes/applicationContext.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/untitled3-1.0-SNAPSHOT/WEB-INF/classes/com/yShen/study/controller/AdminController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/untitled3-1.0-SNAPSHOT/WEB-INF/classes/com/yShen/study/mapper/AdminMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/untitled3-1.0-SNAPSHOT/WEB-INF/classes/com/yShen/study/mapper/ClassMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/untitled3-1.0-SNAPSHOT/WEB-INF/classes/com/yShen/study/mapper/DepartmentMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/untitled3-1.0-SNAPSHOT/WEB-INF/classes/com/yShen/study/mapper/StudentMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/untitled3-1.0-SNAPSHOT/WEB-INF/classes/com/yShen/study/mapper/TeacherMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/untitled3-1.0-SNAPSHOT/WEB-INF/classes/com/yShen/study/model/Admin.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/untitled3-1.0-SNAPSHOT/WEB-INF/classes/com/yShen/study/model/Class.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/untitled3-1.0-SNAPSHOT/WEB-INF/classes/com/yShen/study/model/Department.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/untitled3-1.0-SNAPSHOT/WEB-INF/classes/com/yShen/study/model/Student.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/untitled3-1.0-SNAPSHOT/WEB-INF/classes/com/yShen/study/model/Teacher.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/untitled3-1.0-SNAPSHOT/WEB-INF/classes/com/yShen/study/service/AdminService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/untitled3-1.0-SNAPSHOT/WEB-INF/classes/com/yShen/study/service/impl/AdminServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/untitled3-1.0-SNAPSHOT/WEB-INF/classes/generatorConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/untitled3-1.0-SNAPSHOT/WEB-INF/classes/jdbc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/untitled3-1.0-SNAPSHOT/WEB-INF/classes/log4j.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/untitled3-1.0-SNAPSHOT/WEB-INF/classes/mapper/AdminMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/untitled3-1.0-SNAPSHOT/WEB-INF/classes/mapper/ClassMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/untitled3-1.0-SNAPSHOT/WEB-INF/classes/mapper/DepartmentMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/untitled3-1.0-SNAPSHOT/WEB-INF/classes/mapper/StudentMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/untitled3-1.0-SNAPSHOT/WEB-INF/classes/mapper/TeacherMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/untitled3-1.0-SNAPSHOT/WEB-INF/classes/mybatis-config.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/untitled3-1.0-SNAPSHOT/WEB-INF/lib/aopalliance-1.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/untitled3-1.0-SNAPSHOT/WEB-INF/lib/aspectjweaver-1.9.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/untitled3-1.0-SNAPSHOT/WEB-INF/lib/classmate-1.3.4.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/untitled3-1.0-SNAPSHOT/WEB-INF/lib/commons-codec-1.10.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/untitled3-1.0-SNAPSHOT/WEB-INF/lib/commons-collections4-4.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/untitled3-1.0-SNAPSHOT/WEB-INF/lib/commons-dbcp2-2.6.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/untitled3-1.0-SNAPSHOT/WEB-INF/lib/commons-dbutils-1.4.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/untitled3-1.0-SNAPSHOT/WEB-INF/lib/commons-fileupload-1.4.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/untitled3-1.0-SNAPSHOT/WEB-INF/lib/commons-io-2.6.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/untitled3-1.0-SNAPSHOT/WEB-INF/lib/commons-logging-1.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/untitled3-1.0-SNAPSHOT/WEB-INF/lib/commons-pool2-2.6.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/untitled3-1.0-SNAPSHOT/WEB-INF/lib/core-3.2.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/untitled3-1.0-SNAPSHOT/WEB-INF/lib/curvesapi-1.04.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/untitled3-1.0-SNAPSHOT/WEB-INF/lib/dom4j-1.6.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/untitled3-1.0-SNAPSHOT/WEB-INF/lib/druid-1.1.16.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/untitled3-1.0-SNAPSHOT/WEB-INF/lib/hibernate-validator-6.0.16.Final.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/untitled3-1.0-SNAPSHOT/WEB-INF/lib/hutool-all-4.5.4.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/untitled3-1.0-SNAPSHOT/WEB-INF/lib/jackson-annotations-2.9.6.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/untitled3-1.0-SNAPSHOT/WEB-INF/lib/jackson-core-2.9.6.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/untitled3-1.0-SNAPSHOT/WEB-INF/lib/jackson-databind-2.9.6.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/untitled3-1.0-SNAPSHOT/WEB-INF/lib/javase-3.2.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/untitled3-1.0-SNAPSHOT/WEB-INF/lib/jboss-logging-3.3.2.Final.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/untitled3-1.0-SNAPSHOT/WEB-INF/lib/jcommander-1.48.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/untitled3-1.0-SNAPSHOT/WEB-INF/lib/jdom2-2.0.6.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/untitled3-1.0-SNAPSHOT/WEB-INF/lib/jstl-1.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/untitled3-1.0-SNAPSHOT/WEB-INF/lib/log4j-1.2.16.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/untitled3-1.0-SNAPSHOT/WEB-INF/lib/mybatis-3.4.6.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/untitled3-1.0-SNAPSHOT/WEB-INF/lib/mybatis-generator-core-1.3.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/untitled3-1.0-SNAPSHOT/WEB-INF/lib/mybatis-spring-1.3.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/untitled3-1.0-SNAPSHOT/WEB-INF/lib/mysql-connector-java-5.1.26.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/untitled3-1.0-SNAPSHOT/WEB-INF/lib/poi-3.17.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/untitled3-1.0-SNAPSHOT/WEB-INF/lib/poi-ooxml-3.17.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/untitled3-1.0-SNAPSHOT/WEB-INF/lib/poi-ooxml-schemas-3.17.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/untitled3-1.0-SNAPSHOT/WEB-INF/lib/reactive-streams-1.0.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/untitled3-1.0-SNAPSHOT/WEB-INF/lib/reactor-core-3.1.8.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/untitled3-1.0-SNAPSHOT/WEB-INF/lib/slf4j-api-1.6.6.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/untitled3-1.0-SNAPSHOT/WEB-INF/lib/slf4j-log4j12-1.6.6.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/untitled3-1.0-SNAPSHOT/WEB-INF/lib/spring-aop-5.0.8.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/untitled3-1.0-SNAPSHOT/WEB-INF/lib/spring-aspects-4.2.1.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/untitled3-1.0-SNAPSHOT/WEB-INF/lib/spring-beans-5.0.8.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/untitled3-1.0-SNAPSHOT/WEB-INF/lib/spring-context-5.0.8.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/untitled3-1.0-SNAPSHOT/WEB-INF/lib/spring-context-indexer-5.0.8.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/untitled3-1.0-SNAPSHOT/WEB-INF/lib/spring-context-support-5.0.8.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/untitled3-1.0-SNAPSHOT/WEB-INF/lib/spring-core-5.0.8.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/untitled3-1.0-SNAPSHOT/WEB-INF/lib/spring-expression-5.0.8.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/untitled3-1.0-SNAPSHOT/WEB-INF/lib/spring-instrument-5.0.8.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/untitled3-1.0-SNAPSHOT/WEB-INF/lib/spring-jcl-5.0.8.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/untitled3-1.0-SNAPSHOT/WEB-INF/lib/spring-jdbc-5.0.8.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/untitled3-1.0-SNAPSHOT/WEB-INF/lib/spring-jms-5.0.8.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/untitled3-1.0-SNAPSHOT/WEB-INF/lib/spring-messaging-5.0.8.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/untitled3-1.0-SNAPSHOT/WEB-INF/lib/spring-orm-5.0.8.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/untitled3-1.0-SNAPSHOT/WEB-INF/lib/spring-oxm-5.0.8.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/untitled3-1.0-SNAPSHOT/WEB-INF/lib/spring-test-5.0.8.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/untitled3-1.0-SNAPSHOT/WEB-INF/lib/spring-tx-5.0.8.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/untitled3-1.0-SNAPSHOT/WEB-INF/lib/spring-web-5.0.8.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/untitled3-1.0-SNAPSHOT/WEB-INF/lib/spring-webflux-5.0.8.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/untitled3-1.0-SNAPSHOT/WEB-INF/lib/spring-webmvc-5.0.8.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/untitled3-1.0-SNAPSHOT/WEB-INF/lib/spring-webmvc-portlet-4.3.5.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/untitled3-1.0-SNAPSHOT/WEB-INF/lib/spring-websocket-5.0.8.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/untitled3-1.0-SNAPSHOT/WEB-INF/lib/stax-api-1.0.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/untitled3-1.0-SNAPSHOT/WEB-INF/lib/validation-api-2.0.1.Final.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/untitled3-1.0-SNAPSHOT/WEB-INF/lib/xml-apis-1.0.b2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/untitled3-1.0-SNAPSHOT/WEB-INF/lib/xmlbeans-2.6.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/untitled3-1.0-SNAPSHOT/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/untitled3-1.0-SNAPSHOT/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/untitled3.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="XML File" />
+        <option value="mybatis-config" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\maven\repo" />
+        <option name="mavenHome" value="$PROJECT_DIR$/../../apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="D:\APPS\apache-maven-3.6.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1VHfTznjvKaUoq1PEmmaTsqkx3C" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.39310345" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\APPS\web\untitled3\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Tomcat 7.0.96" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 7.0.96" ALTERNATIVE_JRE_ENABLED="false" nameIsGenerated="true">
+      <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8098/no/" />
+      <option name="UPDATE_ON_FRAME_DEACTIVATION" value="true" />
+      <option name="UPDATE_CLASSES_ON_FRAME_DEACTIVATION" value="true" />
+      <option name="UPDATING_POLICY" value="redeploy-artifacts" />
+      <deployment>
+        <artifact name="untitled3:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/no" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_untitled3" />
+        <option name="HTTP_PORT" value="8098" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="57571" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="untitled3:war exploded" />
+        </option>
+      </method>
+    </configuration>
+    <configuration default="true" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" ALTERNATIVE_JRE_ENABLED="false">
+      <deployment />
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="_untitled3" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="57571" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Tomcat Server" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+            </expand>
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="78a6e3d9-b89e-4438-87a3-83185b490e1b" name="Default Changelist" comment="" />
+      <created>1576914952128</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1576914952128</updated>
+      <workItem from="1576914955338" duration="3592000" />
+      <workItem from="1576919483808" duration="835000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="361" y="71" key="#Project_Structure" timestamp="1576915714417">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="71" key="#Project_Structure/0.0.1536.824@0.0.1536.824" timestamp="1576915714417" />
+    <state x="223" y="68" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1576918375342">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="223" y="68" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1576918375342" />
+    <state x="574" y="122" key="#com.intellij.ide.util.MemberChooser" timestamp="1576918128578">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="574" y="122" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1576918128578" />
+    <state x="549" y="168" key="FileChooserDialogImpl" timestamp="1576920289559">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="168" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1576920289559" />
+    <state width="1024" height="203" key="GridCell.Tab.0.bottom" timestamp="1576918552069">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1024" height="203" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1576918552069" />
+    <state width="1024" height="203" key="GridCell.Tab.0.center" timestamp="1576918552069">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1024" height="203" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1576918552069" />
+    <state width="1024" height="203" key="GridCell.Tab.0.left" timestamp="1576918552068">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1024" height="203" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1576918552068" />
+    <state width="1024" height="203" key="GridCell.Tab.0.right" timestamp="1576918552069">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1024" height="203" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1576918552069" />
+    <state x="270" y="0" key="SettingsEditor" timestamp="1576920236826">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="270" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1576920236826" />
+  </component>
+</project>

@@ -1,0 +1,4 @@
+#
+#Sat Dec 21 16:53:38 CST 2019
+com.yShen.study.service.impl.AdminServiceImpl=org.springframework.stereotype.Component
+com.yShen.study.controller.AdminController=org.springframework.stereotype.Component
